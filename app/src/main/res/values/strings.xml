@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BottomNavigationView</string>
+    <string name="home">Home</string>
+    <string name="news">News</string>
+    <string name="notification">Notification</string>
+    <string name="profile">Profile</string>
+    <string name="fragmenthome">Hello From Home Fragment</string>
+    <string name="fragmentnews">Hello From News Fragment</string>
+    <string name="fragmentnotif">Hello From Notif Fragment</string>
+    <string name="fragmentprofile">Hello From Profile Fragment</string>
+</resources>

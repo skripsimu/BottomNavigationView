@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/btnhome"
+        android:title="@string/home"
+        android:icon="@drawable/home" />
+    <item
+        android:id="@+id/btnnews"
+        android:title="@string/news"
+        android:icon="@drawable/news" />
+    <item
+        android:id="@+id/btnnotif"
+        android:title="@string/notification"
+        android:icon="@drawable/notif" />
+    <item
+        android:id="@+id/btnprofile"
+        android:title="@string/profile"
+        android:icon="@drawable/user" />
+</menu>
